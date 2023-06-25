@@ -3,9 +3,9 @@ const inquirer=require("inquirer");
 const MaxLengthInputPrompt = require('inquirer-maxlength-input-prompt')
 inquirer.registerPrompt('maxlength-input', MaxLengthInputPrompt)
 
-const Circle = require('./lib/circle');
-const Triangle = require('./lib/triangle');
-const Square = require('./lib/square');
+const Circle = require('./lib/shapes/circle');
+const Triangle = require('./lib/shapes/triangle');
+const Square = require('./lib/shapes/square');
 
 const questions=[{type:"maxlength-input", name:"letters",message:"Choose up to three Letters to use", maxLength:"3"},{type:"input", name:"textColor",message:"Chose a text color to use"},{type:"list",name:"shape",message:"Choose a shape to use",choices:["Square","Triangle","Circle"]},{type:"input", name:"shapeColor",message:"Chose a shape color to use"},]
 
