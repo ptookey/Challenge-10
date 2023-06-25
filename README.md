@@ -31,3 +31,7 @@ Made a logo and confirmed that it was what was expected with the imputed results
 ## Questions
 GitHub: [ptookey](https://github.com/ptookey)
 Email: petetookey@gmail.com
+
+## Outside Code
+
+Used [This](https://github.com/jwarby/inquirer-maxlength-input-prompt) to add a max length input option to the inquirer.
