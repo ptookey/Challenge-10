@@ -23,7 +23,11 @@ Made a logo and confirmed that it was what was expected with the imputed results
 
 ## License 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-    
+
+## Video Demo
+
+![Challenge-10](Challenge-10.mov)
+
 ## Questions
 GitHub: [ptookey](https://github.com/ptookey)
 Email: petetookey@gmail.com
